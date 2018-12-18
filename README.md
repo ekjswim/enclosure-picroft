@@ -43,6 +43,7 @@ After that, you can simply speak to Picroft as you would to any Mycroft implemen
 * 0.5 - Original image, connecting to Cerberus backend
 
 # Help and more info
+To re-run the setup wizard, close out the CLI (ctrl+C) and type `mycroft-setup-wizard`.
 Check out the project wiki [here](https://github.com/MycroftAI/enclosure-picroft/wiki).  
 There's also the general [Documentation](https://docs.mycroft.ai/).
 
